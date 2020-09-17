@@ -14,5 +14,6 @@ IN3 15
 IN4 3
 ENB 1
 
+![](NodeMCU-GPIOs.png)
 
 ![](NodeMCU-Wifi-Robot.png)
